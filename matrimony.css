@@ -1,0 +1,18 @@
+img{
+    width: 500px;
+    height: 500px;
+}
+body{
+    background: url("R.jpg"); 
+    background-size:100%;
+    
+   
+}
+
+table {
+    color: white;
+    background-color: black;
+}
+.heading{
+    text-align: center;
+}
